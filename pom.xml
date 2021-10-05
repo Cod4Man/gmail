@@ -9,10 +9,12 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>gmail-coupon</module>
-        <module>gmail-member</module>
-        <module>gmail-order</module>
-        <module>gmail-product</module>
+        <module>gmall-coupon</module>
+        <module>gmall-member</module>
+        <module>gmall-order</module>
+        <module>gmall-product</module>
+        <module>renren-fast</module>
+        <module>gmall-common</module>
     </modules>
 
     <properties>
