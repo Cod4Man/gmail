@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: gmall-member
+  cloud:
+    nacos:
+      config:
+        server-addr: 47.106.198.206:8848
+        file-extension: yml #指定yaml格式的配置
+        namespace: gmall-dev
